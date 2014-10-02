@@ -1,0 +1,15 @@
+src/deployment
+src/releases
+src/.settings
+src/*.launch
+src/.classpath
+src/.project
+src/*.mpr.lock
+src/.mendix-cache
+#src/proxies
+src/.svn
+src/modeler-merge-marker
+src/.mendix-cache
+src/*.mpr.bak
+src/*.mpr.left*
+src/*.mpr.right*
